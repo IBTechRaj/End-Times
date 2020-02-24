@@ -3,9 +3,9 @@ This website is built by me on my own interest.  The purpose is to tell the worl
 
 # Technologies
 
--HTML/CSS/Javascript
--Webpack
--Promises
+- HTML5
+- CSS3
+- Bootstrap 4
 
 # Live Demo
 You can view the website [here](http://theendtimes.in/)
