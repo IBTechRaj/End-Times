@@ -1,5 +1,5 @@
 # End-Times
-This site tells about the prophesies in the Bible that are fulfilled until now, and happening at present, and about to happen soon
+This website is built by me on my own interest.  The purpose is to tell the world about the prophesies in the Bible that are fulfilled until now, and happening at present, and are about to happen soon
 
 # Technologies
 
