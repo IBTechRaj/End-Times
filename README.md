@@ -18,7 +18,7 @@ Feel free to contribute if you want to make it better.
 
 Github: https://github.com/IBTechRaj
 * Email : krs30018@gmail.com 
-* raj_shk@rediffmail.com
+*       : raj_shk@rediffmail.com
 
 # Follow Me
 
