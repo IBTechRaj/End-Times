@@ -23,6 +23,6 @@ Github: https://github.com/IBTechRaj
 # Follow Me
 
 * [LinkedIn](https://www.linkedin.com/in/rajkatakamsetty/)
-* [Twitter](https://twitter.com/IBTechRaj)
+* [Twitter](https://twitter.com/IBTechRaj) 
 
 
