@@ -22,4 +22,4 @@ Feel free to contribute if you want to make it better.
 * [Twitter](https://twitter.com/IBTechRaj) 
 
 # Licence
-This project is [MIT]() licencsed.
+This project is [MIT](https://github.com/IBTechRaj/End-Times/blob/master/LICENSE) licencsed.
