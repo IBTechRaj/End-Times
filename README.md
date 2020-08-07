@@ -14,7 +14,7 @@ You can view the website [here](http://theendtimes.in/)
 Feel free to contribute if you want to make it better.
 
 # Author
-* [Rajasekhar K ](https://github.com/IBTechRaj)
+* [Rajasekhar K ](https://ibtechraj.github.io/RajPortfolio/)
 
 * Github : https://github.com/IBTechRaj
 * Email : krs30018@gmail.com
