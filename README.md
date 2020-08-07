@@ -18,9 +18,6 @@ Feel free to contribute if you want to make it better.
 
 * Github : https://github.com/IBTechRaj
 * Email : krs30018@gmail.com
-
-# Follow Me
-
 * [LinkedIn](https://www.linkedin.com/in/rajkatakamsetty/)
 * [Twitter](https://twitter.com/IBTechRaj) 
 
